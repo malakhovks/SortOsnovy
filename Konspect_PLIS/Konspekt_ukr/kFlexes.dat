@@ -1,0 +1,399 @@
+К1	S1	singular	nominative	masculine	feminine	neuter	animate	inanimate	
+	0	а	я	и	о	е	ь	
+
+К1	S1	singular	accusative	masculine	feminine	neuter	inanimate	
+	0	а	я	и	о	е	ь	
+
+К2	S1	singular	genitive	masculine	feminine	neuter	animate	inanimate	
+	и	і	ї	а	я	у	ю	
+
+К3	S1	singular	dative	masculine	feminine	neuter	animate	inanimate	
+	і	ї	ові	еві	єві	у	ю	
+
+К3	S1	singular	locative	masculine	feminine	neuter	animate	inanimate	
+	і	ї	ові	еві	єві	у	ю	
+
+К4	S1	singular	accusative	masculine	feminine	neuter	animate	
+	а	я	ю	у	
+
+К5	S1	singular	instrumental	masculine	feminine	neuter	animate	inanimate	
+	ою	ею	єю	ом	ем	єм	ю	ам	ям	
+
+К6	S1	plural	nominative	animate	inanimate	
+	а	я	и	і	ї	
+
+К6	S1	plural	accusative	inanimate	
+	а	я	и	і	ї	
+
+К6	S1	plural	vocative	animate	inanimate	
+	а	я	и	і	ї	
+
+К7	S1	plural	genitive	animate	inanimate	
+	0	ат	ій	ів	їв	ей	ь	
+
+К7	S1	plural	accusative	animate	
+	0	ат	ій	ів	їв	ей	ь	
+
+К8	S1	plural	dative	animate	inanimate	
+	ам	ям	
+
+К9	S1	plural	instrumental	animate	inanimate	
+	ами	ями	
+
+К10	S1	plural	locative	animate	inanimate	
+	ах	ях	
+
+К11	S2	singular	masculine	nominative	animate	inanimate	
+	0	ий	ій	їй	ий	ій	
+
+К11	S2	singular	masculine	accusative	inanimate	
+	0	ий	ій	їй	ий	ій	
+
+К11	S7	nominative	animate	inanimate	feminine	masculine	neuter	singular	
+	0	ий	ій	їй	ий	ій	
+
+К12	S2	singular	masculine	genitive	animate	inanimate	
+	ого	ого	
+
+К12	S2	singular	masculine	accusative	animate	
+	ого	ого	
+
+К12	S2	singular	neuter	genitive	animate	inanimate	
+	ого	ого	
+
+К12	S7	accusative	genitive	animate	inanimate	feminine	masculine	neuter	singular	
+	ого	ого	
+
+К13	S2	singular	masculine	dative	animate	inanimate	
+	ому	ому	
+
+К13	S2	singular	neuter	dative	animate	inanimate	
+	ому	ому	
+
+К13	S7	dative	animate	inanimate	feminine	masculine	neuter	singular	
+	ому	ому	
+
+К14	S2	singular	masculine	instrumental	animate	inanimate	
+	им	ім	им	ім	
+
+К14	S2	singular	neuter	instrumental	animate	inanimate	
+	им	ім	им	ім	
+
+К14	S2	plural	dative	animate	inanimate	
+	им	ім	им	ім	
+
+К14	S7	instrumental	animate	inanimate	feminine	masculine	neuter	singular	plural	
+	им	ім	им	ім	
+
+К15	S2	singular	masculine	locative	animate	inanimate	
+	ому	ім	ому	
+
+К15	S2	singular	neuter	locative	animate	inanimate	
+	ому	ім	ому	
+
+К15	S7	locative	animate	inanimate	feminine	masculine	neuter	singular	
+	ому	ім	ому	
+
+R16!	S2	singular	feminine	dative	animate	inanimate	
+	ій	
+
+R16!	S2	singular	feminine	locative	animate	inanimate	
+	ій	
+
+К17	S2	singular	feminine	nominative	animate	inanimate	
+	а	я	
+
+К18	S2	singular	feminine	instrumental	animate	inanimate	
+	ою	
+
+К19	S2	singular	feminine	accusative	animate	inanimate	
+	у	ю	
+
+К20	S2	singular	neuter	nominative	animate	inanimate	
+	е	є	
+
+К20	S2	singular	neuter	accusative	animate	inanimate	
+	е	є	
+
+К21	S2	plural	nominative	animate	inanimate	
+	і	ї	
+
+К21	S2	plural	accusative	inanimate	
+	і	ї	
+
+К22	S2	plural	genitive	animate	inanimate	
+	их	їх	їх	
+
+К22	S2	plural	locative	animate	inanimate	
+	их	їх	їх	
+
+К22	S2	plural	accusative	animate	
+	их	їх	їх	
+
+К23!	S2	plural	instrumental	animate	inanimate	
+	ими	іми	їми	
+
+К24!	S7	masculine	singular	nominative	animate	inanimate	
+	0	
+
+К24!	S7	masculine	singular	accusative	animate	inanimate	
+	0	
+
+К25**	S7	masculine	neuter	singular	genitive	animate	inanimate	
+	ого	
+
+К25**	S7	masculine	singular	accusative	animate	inanimate	
+	ого	
+
+К26*	S7	masculine	neuter	singular	dative	animate	inanimate	
+	ому	
+
+К27!!!	S7	masculine	singular	accusative	animate	inanimate	
+	ого	
+
+К28!!	S7	masculine	neuter	singular	instrumental	animate	inanimate	
+	им	
+
+К29!!!!	S7	masculine	neuter	singular	locative	animate	inanimate	
+	ому	ім	
+
+К30	S7	neuter	singular	nominative	animate	inanimate	
+	е	о	
+
+К30	S7	neuter	singular	accusative	animate	inanimate	
+	е	о	
+
+К31**	S7	masculine	neuter	singular	genitive	animate	inanimate	
+	ого	
+
+К32*	S7	masculine	neuter	singular	dative	animate	inanimate	
+	ому	
+
+К33!!	S7	masculine	neuter	singular	instrumental	animate	inanimate	
+	им	
+
+К34!!!!	S7	masculine	neuter	singular	locative	animate	inanimate	
+	ому	ім	
+
+К35	S7	feminine	singular	nominative	animate	inanimate	
+	а	
+
+К36	S7	feminine	singular	genitive	animate	inanimate	
+	ієї	ої	
+
+К37	S7	feminine	singular	dative	animate	inanimate	
+	ій	
+
+К37	S7	feminine	singular	locative	animate	inanimate	
+	ій	
+
+К38	S7	feminine	singular	instrumental	animate	inanimate	
+	ією	ою	
+
+К39	S7	feminine	singular	accusative	animate	inanimate	
+	у	
+
+ К40	S7	nominative	animate	inanimate	feminine	masculine	neuter	singular	plural	
+	а	і	и	ь	0	о	ий	ій	
+
+ К40	S7	accusative	inanimate	feminine	masculine	neuter	singular	plural	
+	а	і	и	ь	0	о	ий	ій	
+
+К41	S7	genitive	animate	inanimate	feminine	masculine	neuter	singular	plural	
+	ох	и	а	0	ого	их	
+
+К41	S7	accusative	animate	feminine	masculine	neuter	singular	plural	
+	ох	и	а	0	ого	их	
+
+К42	S7	dative	animate	inanimate	feminine	masculine	neuter	singular	
+	и	ом	а	ам	ому	им	
+
+К43?	S7	accusative		animate	inanimate	feminine	masculine	neuter	singular	plural	
+		
+
+К44	S7	instrumental	animate	inanimate	feminine	masculine	neuter	singular	plural	
+	а	и	им	ім	ими	
+
+К45	S7	locative	animate	inanimate	feminine	masculine	neuter	singular	plural	
+	а	ах	и	ох	ому	их	
+
+К46	S12	nominative	feminine	masculine	neuter	singular	plural	
+	0	о	а	и	є	я	ї	е	
+
+К47	S12	genitive	accusative	feminine	masculine	neuter	singular	plural	
+	0	е	о	ї	ю	їх	
+
+К48	S12	dative	feminine	masculine	neuter	singular	plural	
+	і	0	у	їм	їх	
+
+К49	S12	instrumental	feminine	masculine	neuter	singular	plural	
+	ю	и	0	єю	їми	
+
+К50	S12	locative	feminine	masculine	neuter	
+	0	і	у	їй	їх	
+
+К51	S4	singular	present	first	
+	у	ю	0	юся 	юсь	
+
+К52	S4	singular	present	third	
+	е	є	ить	їть	ь	ється	
+
+К53	S4	singular	present	second	
+	еш	єш	иш	їш	и	єшся	
+
+К54	S4	plural	present	first	
+	емо	ємо	єм	имо	їмо	о	ємося	ємось	ємся	
+
+К55	S4	plural	present	second	
+	ете	єте	ите	їте	е	єтеся	єтесь	
+
+К56	S4	plural	present	third	
+	уть	ють	ать	ять	ються	
+
+К57	S4	singular	past	masculine	
+	0	
+
+К58	S4	singular	past	feminine	
+	а	
+
+К59	S4	singular	past	neuter	
+	о	
+
+К60	S4	plural	past	
+	и	
+
+К61	S4	singular	imperative	
+	и	0	
+
+К62	S4	plural	imperative	
+	ім	імо	мо	іть	те	
+
+К63	S4	infinitive	
+	ти	тися	тись	
+
+К64	S14	singular	masculine	nominative	animate	inanimate	
+	ий	
+
+К65	S14	singular	neuter	nominative	animate	inanimate	
+	е	
+
+К65	S14	singular	neuter	accusative	inanimate	
+	е	
+
+К66	S14	singular	feminine	nominative	animate	inanimate	
+	а	
+
+К67	S14	singular	masculine	genitive	animate	inanimate	
+	ого	
+
+К67	S14	singular	neuter	genitive	animate	inanimate	
+	ого	
+
+К67	S14	singular	masculine	accusative	animate	
+	ого	
+
+К68	S14	singular	neuter	dative	animate	inanimate	
+	ому	
+
+К68	S14	singular	masculine	dative	animate	inanimate	
+	ому	
+
+К69!	S14	singular	feminine	dative	animate	inanimate	
+	ій	
+
+К69!	S14	singular	feminine	locative	animate	inanimate	
+	ій	
+
+К70	S14	singular	feminine	instrumental	animate	inanimate	
+	ою	
+
+К71	S14	singular	feminine	accusative	animate	inanimate	
+	у	
+
+К72	S14	singular	neuter	instrumental	animate	inanimate	
+	им	
+
+К72	S14	singular	masculine	instrumental	animate	inanimate	
+	им	
+
+К73	S14	singular	neuter	locative	animate	inanimate	
+	ім	ому	
+
+К73	S14	singular	masculine	locative	animate	inanimate	
+	ім	ому	
+
+К74	S14	plural	nominative	animate	inanimate	
+	і	
+
+К74	S14	plural	accusative	inanimate	
+	і	
+
+К75	S14	plural	genitive	animate	inanimate	
+	их	
+
+К75	S14	plural	locative	animate	inanimate	
+	их	
+
+К75	S14	plural	accusative	animate	
+	их	
+
+К76	S14	plural	dative	animate	inanimate	
+	им	
+
+К77	S14	plural	instrumental	animate	inanimate	
+	ими	
+
+К78!	S14	singular	feminine	genitive	animate	inanimate	
+	ої	
+
+К79	S4	singular	present	first	
+	юся	юсь	уся	усь	
+
+К80	S4	singular	present	third	
+	ється	иться	
+
+К81	S4	singular	present	second	
+	єшся	ишся	
+
+К82	S4	plural	present	first	
+	ємося	ємось	ємся	
+
+К83	S4	plural	present	second	
+	єтеся	єтесь	
+
+К84	S4	plural	present	third	
+	ються	
+
+К85	S4	singular	past	masculine	
+	вся	всь	
+
+К86	S4	singular	past	feminine	
+	лася	лась	
+
+К87	S4	singular	past	neuter	
+	лося	лось	
+
+К88	S4	plural	past	
+	лися	лись	
+
+К89	S4	singular	imperative	
+	айся	айсь	ися	ись	йся	йсь	
+
+К90	S4	plural	imperative	
+	мося	мось	теся	тесь	іться	
+
+К91	S4	infinitive	
+	ися	ись	
+
+К92	S1	singular	vocative	masculine	feminine	neuter	animate	inanimate	
+	а	я	о	е	є	у	ю	
+
+К93!	S2	singular	feminine	genitive	animate	inanimate	
+	ої	
+
+К94!	S2	plural	dative	animate	inanimate	
+	им	ім	їм	
+
+	
+		
+
